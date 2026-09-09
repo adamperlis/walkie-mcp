@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="112" alt="Walkie app icon" />
+  <img src="assets/walkie-icon.png" width="128" alt="Walkie app icon" />
 </p>
 
 <h1 align="center">Walkie for MCP</h1>
