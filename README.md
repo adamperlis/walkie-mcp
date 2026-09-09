@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/walkie-icon.png" width="128" alt="Walkie app icon" />
+  <img src="assets/walkie-mark.png" width="128" alt="Walkie app icon" />
 </p>
 
 <h1 align="center">Walkie for MCP</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/walkie-home.png" width="840" alt="Walkie speech-to-text app on macOS showing dictation, Read Aloud, and transcription history" />
+  <img src="assets/walkie-home-1.png" width="840" alt="Walkie speech-to-text app on macOS showing dictation, Read Aloud, and transcription history" />
 </p>
 
 ## What Walkie does
@@ -26,7 +26,7 @@ Walkie is a speech-to-text app for **macOS, Windows, and Linux**:
 Dictation is free; meetings and this MCP connector are part of the Work plan.
 
 <p align="center">
-  <img src="assets/walkie-meetings.png" width="680" alt="Walkie recording a meeting with a live speaker-labeled transcript" />
+  <img src="assets/walkie-meetings-1.png" width="680" alt="Walkie recording a meeting with a live speaker-labeled transcript" />
 </p>
 
 ## What this connector adds
