@@ -1,0 +1,56 @@
+{
+  "manifest_version": "0.3",
+  "name": "walkie",
+  "display_name": "Walkie",
+  "version": "1.6.2",
+  "description": "Search and read your recorded meetings \u2014 notes, action items, participants, and speaker-labeled transcripts.",
+  "long_description": "Walkie records and transcribes your meetings on your computer. This extension lets Claude search across everything you've said or heard and pull any meeting's notes, action items, participants, and speaker-labeled transcript \u2014 all read-only. It runs Walkie's local MCP server (`walkie --mcp-serve`), which reads Walkie's local database and sends nothing anywhere itself.",
+  "author": {
+    "name": "Adam Perlis",
+    "url": "https://github.com/adamperlis"
+  },
+  "homepage": "https://trywalkie.com",
+  "documentation": "https://trywalkie.com/mcp",
+  "support": "https://trywalkie.com",
+  "icon": "icon.png",
+  "license": "MIT",
+  "keywords": [
+    "meetings",
+    "transcription",
+    "notes",
+    "speech-to-text",
+    "productivity"
+  ],
+  "privacy_policies": [
+    "https://trywalkie.com/en/privacy"
+  ],
+  "server": {
+    "type": "binary",
+    "entry_point": "/Applications/Walkie.app/Contents/MacOS/walkie",
+    "mcp_config": {
+      "command": "/Applications/Walkie.app/Contents/MacOS/walkie",
+      "args": [
+        "--mcp-serve"
+      ]
+    }
+  },
+  "tools": [
+    {
+      "name": "search_meetings",
+      "description": "Search across your recorded meetings by keyword"
+    },
+    {
+      "name": "get_meeting",
+      "description": "Read a meeting's notes, action items, participants, and transcript"
+    },
+    {
+      "name": "list_meetings",
+      "description": "Enumerate meetings as metadata (requires full archive access)"
+    }
+  ],
+  "compatibility": {
+    "platforms": [
+      "darwin"
+    ]
+  }
+}
