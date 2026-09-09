@@ -13,10 +13,6 @@
   <img src="assets/walkie-home-5.png" width="840" alt="Walkie speech-to-text app on macOS showing Dictation, Read Aloud, and meeting transcripts" />
 </p>
 
-<p align="center">
-  <img src="assets/walkie-overlay-2.png" width="480" alt="Walkie's dictation overlay — the Walkie grille, a live audio visualizer, a timer, and a glowing orange recording dot" />
-</p>
-
 ## What Walkie does
 
 Walkie is a speech-to-text app for **macOS, Windows, and Linux**:
@@ -28,6 +24,10 @@ Walkie is a speech-to-text app for **macOS, Windows, and Linux**:
 - **Yours to control.** Custom dictionary, snippets, per-app text styles, and keyboard shortcuts. In Local mode, nothing leaves your machine.
 
 Dictation is free; meetings and this MCP connector are part of the Work plan.
+
+<p align="center">
+  <img src="assets/walkie-overlay-5.png" width="340" alt="Walkie's dictation overlay — the Walkie grille, a live audio visualizer, a timer, and a glowing orange recording dot" />
+</p>
 
 <p align="center">
   <img src="assets/walkie-meetings-5.png" width="680" alt="Walkie recording a meeting with a live speaker-labeled transcript" />
