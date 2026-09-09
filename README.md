@@ -13,6 +13,10 @@
   <img src="assets/walkie-home-5.png" width="840" alt="Walkie speech-to-text app on macOS showing Dictation, Read Aloud, and meeting transcripts" />
 </p>
 
+<p align="center">
+  <img src="assets/walkie-overlay-2.png" width="480" alt="Walkie's dictation overlay — the Walkie grille, a live audio visualizer, a timer, and a glowing orange recording dot" />
+</p>
+
 ## What Walkie does
 
 Walkie is a speech-to-text app for **macOS, Windows, and Linux**:
