@@ -26,7 +26,7 @@ Walkie is a speech-to-text app for **macOS, Windows, and Linux**:
 Dictation is free; meetings and this MCP connector are part of the Work plan.
 
 <p align="center">
-  <img src="assets/walkie-overlay-5.png" width="340" alt="Walkie's dictation overlay — the Walkie grille, a live audio visualizer, a timer, and a glowing orange recording dot" />
+  <img src="assets/walkie-overlay-6.png" width="340" alt="Walkie's dictation overlay — the Walkie grille, a live audio visualizer, a timer, and a glowing orange recording dot" />
 </p>
 
 <p align="center">
