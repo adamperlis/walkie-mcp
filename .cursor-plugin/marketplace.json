@@ -1,0 +1,16 @@
+{
+  "name": "walkie",
+  "owner": {
+    "name": "Adam Perlis"
+  },
+  "metadata": {
+    "description": "Walkie MCP — search and read recorded meetings"
+  },
+  "plugins": [
+    {
+      "name": "walkie",
+      "source": "walkie-plugin",
+      "description": "Search and read your recorded meetings — notes, action items, participants, and speaker-labeled transcripts."
+    }
+  ]
+}

@@ -45,6 +45,16 @@ All three tools are **read-only** — the connector never changes your data.
 
 ## Install
 
+### Cursor and Grok Bot (marketplace)
+
+The Marketplace package is [`walkie-plugin/`](./walkie-plugin/) (manifest + remote MCP URL, no binaries). After listing, install from **Customize → Plugins** in Cursor, or **Settings → Plugins → Marketplace** in Grok Bot, then complete OAuth.
+
+Until then:
+
+- **Cursor:** Customize → MCP → URL `https://mcp.trywalkie.com/mcp`
+- **Grok Bot:** tell the Bot `Add this MCP server: https://mcp.trywalkie.com/mcp`
+- **Grok.com:** [connectors](https://grok.com/connectors) → New Connector → Custom → same URL
+
 ### Claude Desktop (one click)
 Download **[walkie.mcpb](./walkie.mcpb)** and open it in Claude Desktop (**Settings → Extensions → Install**). It launches Walkie's local server automatically and carries the Walkie icon.
 

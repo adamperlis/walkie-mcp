@@ -1,0 +1,13 @@
+{
+  "name": "walkie",
+  "version": "1.6.2",
+  "description": "Search and read your recorded meetings — notes, action items, participants, and speaker-labeled transcripts.",
+  "author": {
+    "name": "Adam Perlis"
+  },
+  "homepage": "https://trywalkie.com",
+  "repository": "https://github.com/adamperlis/walkie-mcp",
+  "license": "MIT",
+  "keywords": ["meetings", "notes", "transcripts", "mcp", "walkie"],
+  "logo": "assets/icon.png"
+}
